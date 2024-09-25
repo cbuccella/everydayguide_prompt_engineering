@@ -1,2 +1,2 @@
 # promptengineering
-A Beginners Guide to Prompt Engineering 
+A Beginner's Guide to Prompt Engineering 
