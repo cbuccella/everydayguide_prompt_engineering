@@ -138,7 +138,6 @@ This system will help educators efficiently create comprehensive, tailored lesso
 <details>
 <summary>📝 Practice Exercise: Designing a HyDE-based System</summary>
 
-In this exercise, you'll design a HyDE-based system for a specific application. Follow these steps to create your system:
 
 1. Choose an application domain (e.g., healthcare, finance, e-commerce, environmental science, etc.).
 
@@ -154,11 +153,6 @@ In this exercise, you'll design a HyDE-based system for a specific application. 
 
 5. Discuss potential challenges and limitations of your system, and propose ways to address them.
 
-6. Consider ethical implications of using HyDE in your chosen domain, such as data privacy, bias in generated content, or potential misuse.
+6. Suggest metrics or methods for evaluating the effectiveness of your HyDE-based system.
 
-7. Suggest metrics or methods for evaluating the effectiveness of your HyDE-based system.
-
-8. Share your design, including the problem description, system outline, example query, challenges, ethical considerations, and evaluation methods in the comments below.
-
-This exercise will help you apply the HyDE technique to a real-world scenario, considering both its potential benefits and practical implementation challenges.
 </details>
