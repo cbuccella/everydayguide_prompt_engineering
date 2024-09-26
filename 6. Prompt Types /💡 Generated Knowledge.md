@@ -148,8 +148,6 @@ Employ Generated Knowledge to choose between job offers:
 <details>
 <summary>📝 Practice Exercise: Applying Generated Knowledge</summary>
 
-In this exercise, you'll apply the Generated Knowledge technique to a complex decision-making or problem-solving scenario. Follow these steps to create your Generated Knowledge strategy:
-
 1. Choose a complex scenario that requires in-depth knowledge to make an informed decision or solve a problem (e.g., starting a small business, planning a major home renovation, or developing a personal health and wellness plan).
 
 2. Identify 4-6 key areas where you need to generate knowledge to inform your decision or solution.
