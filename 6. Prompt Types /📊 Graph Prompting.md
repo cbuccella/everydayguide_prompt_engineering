@@ -162,8 +162,6 @@ Apply Graph Prompting to improve your home's energy efficiency:
 <details>
 <summary>📝 Practice Exercise: Creating a Graph Prompt Analysis</summary>
 
-In this exercise, you'll apply the Graph Prompting technique to analyze a complex system or scenario of your choice. Follow these steps to create your graph prompt analysis:
-
 1. Choose a complex system or scenario to analyze (e.g., a work project, a community issue, a personal challenge, or an area of study).
 
 2. Identify the key components (nodes) of your chosen system:
@@ -197,7 +195,4 @@ In this exercise, you'll apply the Graph Prompting technique to analyze a comple
    - What challenges did you face in creating and analyzing the graph?
    - How might you use this technique in future problem-solving scenarios?
 
-9. Share your graph, analysis, proposed actions, and reflections in the comments below.
-
-This exercise will help you apply the Graph Prompting technique to a real-world scenario, enhancing your ability to visualize and analyze complex systems or problems.
 </details>
