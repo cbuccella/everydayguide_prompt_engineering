@@ -204,8 +204,6 @@ Use Prompt Chaining to organize and declutter your living space:
 <details>
 <summary>📝 Practice Exercise: Designing a Prompt Chain</summary>
 
-In this exercise, you'll design a prompt chain for a complex task or project. Follow these steps to create your prompt chain:
-
 1. Choose a complex task or project that involves multiple steps or stages (e.g., writing a research paper, planning a marketing campaign, developing a software application).
 
 2. Break down the task into 5-8 main stages or components.
@@ -221,9 +219,4 @@ In this exercise, you'll design a prompt chain for a complex task or project. Fo
 
 6. Identify at least two points in your chain where human review or intervention might be beneficial, and explain why.
 
-7. Describe how you would test and iterate on your prompt chain to improve its effectiveness.
-
-8. Share your prompt chain design, including the task breakdown, individual prompts, flowchart, error handling strategy, review points, and iteration plan in the comments below.
-
-This exercise will help you apply the Prompt Chaining technique to design an effective approach for tackling complex tasks, considering the flow of information, potential challenges, and opportunities for refinement throughout the process.
 </details>
