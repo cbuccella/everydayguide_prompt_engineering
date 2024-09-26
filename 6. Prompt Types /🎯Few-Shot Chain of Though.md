@@ -193,8 +193,5 @@ As demonstrated by these examples, Few-Shot Chain of Thought can be applied to a
 3. Include 2-3 examples that demonstrate different aspects or applications of the process.
 4. End with a prompt for applying the process to a new scenario.
 5. Test your prompt with an AI model or a colleague and evaluate the response.
-6. Share your prompt, the response you received, and your reflections on the effectiveness of your Few-Shot-CoT structure in the comments below.
-
-This exercise will help you apply Few-Shot Chain of Thought prompting to your specific area of interest or expertise.
 
 </details>
