@@ -1,4 +1,4 @@
-## 10. 🧠 Chain of Thought (CoT)
+## 🧠 Chain of Thought (CoT)
 
 Chain of Thought (CoT) is a prompting technique that encourages language models to break down complex problems into explicit intermediate steps, showing their reasoning process step-by-step. This approach often leads to more accurate and transparent results.
 
