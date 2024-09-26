@@ -4,6 +4,8 @@ When designing prompts, consider these key elements:
 
 ## Key Elements of Prompt Design
 
+<img src="napkin-selection.png" alt="Alt text" width="350" height="300">
+
 - ✨ **Clarity**: Be specific and unambiguous in your instructions.
 - 🏛️ **Context**: Provide relevant background information.
 - 🚧 **Constraints**: Set boundaries for the AI's response.
