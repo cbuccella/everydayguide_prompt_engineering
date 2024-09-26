@@ -150,8 +150,5 @@ This exercise will help you apply Chain of Thought prompting to your specific ar
 2. Write a CoT prompt that guides the AI to break down the problem into logical steps.
 3. Test your prompt with an AI model and evaluate the response.
 4. Refine your prompt to improve the clarity and depth of the AI's reasoning.
-5. Share your original prompt, the AI's response, and your refined version in the comments below.
-
-This exercise will help you master the art of creating effective Chain of Thought prompts for various scenarios.
 
 </details>
