@@ -138,7 +138,6 @@ This system will help educators efficiently create comprehensive, tailored lesso
 <details>
 <summary>📝 Practice Exercise: Designing a HyDE-based System</summary>
 
-
 1. Choose an application domain (e.g., healthcare, finance, e-commerce, environmental science, etc.).
 
 2. Define a specific problem or task within that domain that could benefit from improved information retrieval or question-answering.
