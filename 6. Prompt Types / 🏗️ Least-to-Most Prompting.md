@@ -126,7 +126,7 @@ Apply Least-to-Most Prompting to develop public speaking skills:
 <details>
 <summary>📝 Practice Exercise: Designing a Least-to-Most Learning Path</summary>
 
-In this exercise, you'll design a Least-to-Most Prompting learning path for a complex skill or concept. Follow these steps to create your learning path:
+In this exercise, design a Least-to-Most Prompting learning path for a complex skill or concept. Follow these steps to create your learning path:
 
 1. Choose a complex skill or concept you'd like to teach (e.g., data science, creative writing, project management, etc.).
 
