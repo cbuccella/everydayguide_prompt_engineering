@@ -96,8 +96,6 @@ Repeat steps 2-6 for each area until you have a comprehensive smart home automat
 <details>
 <summary>📝 Practice Exercise: Developing a Recursive Prompting Strategy</summary>
 
-In this exercise, you'll develop a recursive prompting strategy for a complex task or project. Follow these steps to create your strategy:
-
 1. Choose a complex task or project that would benefit from iterative refinement (e.g., writing a research paper, developing a business plan, creating a comprehensive fitness program).
 
 2. Define the overall goal of your recursive prompting strategy.
@@ -121,7 +119,4 @@ In this exercise, you'll develop a recursive prompting strategy for a complex ta
 
 8. Reflect on how this recursive approach might be more effective than a single, comprehensive prompt.
 
-9. Share your recursive prompting strategy, including your chosen task, overall goal, series of prompts, challenges and solutions, end criteria, and reflections in the comments below.
-
-This exercise will help you apply the Recursive Prompting technique to a specific task, enhancing your ability to break down complex projects into iterative steps and progressively refine outputs.
 </details>
