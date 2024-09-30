@@ -112,7 +112,7 @@ Apply Least-to-Most Prompting to develop public speaking skills:
 </details>
 
 <details>
-<summary>Example 5: Guide to creating a simple website</summary>
+<summary>Example 5: Guide to Creating a Simple Webpage</summary>
 
 ```markdown
 Apply Least-to-Most Prompting to develop public speaking skills:
