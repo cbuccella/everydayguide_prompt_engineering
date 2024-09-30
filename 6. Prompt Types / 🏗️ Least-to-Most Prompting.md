@@ -111,6 +111,20 @@ Apply Least-to-Most Prompting to develop public speaking skills:
 
 </details>
 
+<details>
+<summary>Example 5: Guide to creating a simple website</summary>
+
+```markdown
+Apply Least-to-Most Prompting to develop public speaking skills:
+1. Explain what HTML, CSS, and JavaScript are
+2. Teach how to set up a basic HTML structure
+3. Introduce simple CSS styling
+4. Show how to add basic interactivity with JavaScript
+5. Guide through publishing the website
+```
+
+</details>
+
 ## 💡 Pro Tips for Effective Least-to-Most Prompting
 
 1. **Start simple:** Begin with the most basic concepts or tasks to build confidence and understanding.
